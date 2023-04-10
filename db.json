@@ -1,0 +1,29 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "produc 1 update",
+      "price": "2000",
+      "image": "avv",
+      "description": "mota",
+      "categoryId": "1"
+    },
+    {
+      "id": 2,
+      "name": "product new",
+      "price": "10000",
+      "image": "abc",
+      "description": "nhac nhở",
+      "categoryId": "2"
+    }
+  ],
+  "user": [
+    {   
+      "name": "thuc",
+      "email": "thuc@gmail.com",
+      "password": "12345",
+      "confirmPassword":"12345",
+      "role":"admin"
+    }
+  ]
+}
